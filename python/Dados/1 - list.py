@@ -1,7 +1,7 @@
 gameFifa = ["Fifa 23", 2023, 90.50, True]
 print(gameFifa)
 
-gameList = ["Fifa", "Resident Evil", "Read Deade Redemption",
+gameList = ["Fifa", "Resident Evil", "Red Dead Redemption",
             "Star Wars Fallen Order", "The legend of Zelda"]
 print(gameList)
 
